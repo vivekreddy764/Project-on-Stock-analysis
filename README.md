@@ -20,6 +20,7 @@ On the opposite when the shorter term moving average crosses below the longer te
 
 
 **Moving Averages are calculated to set BUY,SELL,HOLD signals**
+
 1.Firstly created a table to get the moving averages 20day and 50
 day from the excel sheet
 
