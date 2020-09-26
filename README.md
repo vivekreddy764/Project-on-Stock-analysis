@@ -38,3 +38,5 @@ to reference the stock signal..
 4.It can be noted from the data when the golden cross
 appears it is best time to buy a stock as the cost price of
 stock started increasing in coming days hence increasing in
+
+Totally based on MYSQL Server
